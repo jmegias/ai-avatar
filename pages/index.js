@@ -100,7 +100,7 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>AI Avatar Generator</title>
+        <title>Zero AI Avatar Generator</title>
       </Head>
       <div className="container">
         <div className="header">
