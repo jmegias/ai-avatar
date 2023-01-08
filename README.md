@@ -1,7 +1,7 @@
-# Avatar Generator 🎨
+# AI Avatar Generator 🤖
 
 This is a REACT standalone app that uses a pre-trained Stable Diffusion model and the huggingface API to generate avatar images based on a character description.
-It uses a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It uses a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and is based on Buildspace [AI Avatar project](https://github.com/buildspace/ai-avatar-starter).
 
 ## Features 💡
 
